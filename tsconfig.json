@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "./.tmp/build/",
+    "moduleResolution": "node",
+    "declaration": true,
+    "jsx": "react",
+    "types": ["react", "react-dom"],
+    "lib": ["es2015", "dom"]
+  },
+  "files": [
+    "./src/visual.ts",
+    "node_modules/powerbi-visuals-utils-typeutils/lib/index.d.ts",
+    "node_modules/powerbi-visuals-utils-svgutils/lib/index.d.ts",
+    "node_modules/powerbi-visuals-utils-interactivityutils/lib/index.d.ts",
+    "node_modules/powerbi-models/dist/models-noexports.d.ts"
+  ]
+}
