@@ -5,8 +5,8 @@
     "guid": "cardsList55FB9B0494D540179EBAEAFE64FCDE54",
     "visualClassName": "Visual",
     "version": "1.0.0",
-    "description": "",
-    "supportUrl": "",
+    "description": "Test DrillThrough",
+    "supportUrl": "Test",
     "gitHubUrl": ""
   },
   "apiVersion": "2.6.0",
@@ -15,10 +15,7 @@
   "externalJS": [
     "node_modules/jquery/dist/jquery.slim.js",
     "node_modules/bootstrap/dist/js/bootstrap.js",
-    "node_modules/d3/d3.min.js",
-    "node_modules/powerbi-visuals-utils-typeutils/lib/index.js",
-    "node_modules/powerbi-visuals-utils-svgutils/lib/index.js",
-    "node_modules/powerbi-visuals-utils-interactivityutils/lib/index.js"
+    "node_modules/d3/d3.min.js"
   ],
   "style": "style/visual.less",
   "capabilities": "capabilities.json",

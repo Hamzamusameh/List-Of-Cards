@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Hamza Musameh","email":"hamzamusameh2@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/cardsList55FB9B0494D540179EBAEAFE64FCDE54.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"cardsList","displayName":"CardsList","guid":"cardsList55FB9B0494D540179EBAEAFE64FCDE54","visualClassName":"Visual","version":"1.0.0","description":"Test DrillThrough","supportUrl":"Test","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
